@@ -5,8 +5,8 @@
   ],
   "window":{
     "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "万能计算器(beta)",
+    "navigationBarBackgroundColor": "#7CFC00",
+    "navigationBarTitleText": "物品置换(beta)",
     "navigationBarTextStyle":"black"
   }
 }
