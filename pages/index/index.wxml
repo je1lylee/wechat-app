@@ -15,6 +15,7 @@
 
 <!-- 键盘区 -->
 <view class='keyboard'>
+<text>just try</text>
 <view class='back_line'>
 <image src='http://img.linxixiangxin.top/yiban/wangge.png'></image>
 </view>
