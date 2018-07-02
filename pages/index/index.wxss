@@ -1,0 +1,32 @@
+/**index.wxss**/
+/* .userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+} */
+.display{
+  height:405rpx; 
+  width: 720rpx；
+}
+.input{
+
+
+}
+
+
+.output{
+
+
+}
+
+
+.back_line{
+  display: flex;
+width: 720rpx;
+height: 100%;
+}   
+
+.line{
+  display: inline;
+  color: black;
+}
