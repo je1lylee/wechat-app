@@ -1,24 +1,6 @@
 <!--index.wxml-->
-
-<!-- 表达式 结果区 -->
-<view class='diaplay'>
-  <view class='input'>
-    <text>
-    InPut Area
-    </text>
-  </view>
-  <view class='output'>
-    <text>OutPut Area</text>
-  </view>
-  <view class='line'></view>
-</view>
-
-<!-- 键盘区 -->
-<view class='keyboard'>
-<view class='back_line'>
-<image src='http://img.linxixiangxin.top/yiban/wangge.png'></image>
-</view>
-
-
-
+<view>
+<text>
+think
+</text>
 </view>
